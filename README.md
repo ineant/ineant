@@ -2,12 +2,12 @@
 ![MasterHead](https://i.pinimg.com/originals/d0/d7/bb/d0d7bbada1102ab691f74678f4a9ccbb.png)
 
 <h1 align="center">Hei 👋, jeg heter Ine Antonsen</h1>								
-<h3 align="center">Jeg er første års student på universitet i agder (UiA) og studerer IT og informasjonssystem. </h3>
+<h3 align="center">Jeg er andre års student på universitet i agder (UiA) og studerer IT og informasjonssystem. </h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-15.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ineant&label=Profile%20views&color=0e75b6&style=flat" alt="ineant" /> </p>
 
-- 🌱 Jeg er nå i ferd med å lære **Golang og java**
+- 🌱 Jeg er nå i ferd med å lære **Http og C#**
 
 - ⚡ Fun fact **Det er bare tre konger i kortstokken som har bart, hjertekongen har det ikke.**
 
